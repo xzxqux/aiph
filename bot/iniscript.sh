@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/sh
 
 #
-#	@utor izXquX
+#	@utor XzXquX
 #	Shell Script
 #
 #	Esse script inicia outros
